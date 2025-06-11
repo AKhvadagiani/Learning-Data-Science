@@ -1,1 +1,1 @@
-# Learning-Data-Science
+# Project for becoming data scientist
